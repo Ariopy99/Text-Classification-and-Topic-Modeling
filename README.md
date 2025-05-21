@@ -1,2 +1,2 @@
-# Text-Classification-e-Topic-Modeling
+# Text-Classification-and-Topic-Modeling
 njnbjk
