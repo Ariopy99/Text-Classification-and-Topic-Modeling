@@ -31,10 +31,4 @@ The final goal is to provide a **structured representation** of biomedical resea
 - Automatically labeling them into categories
 - Discovering the latent topics present in the corpus
 
-## 🧪 Reproducibility
 
-All code and analysis steps are included in this repository to ensure reproducibility and transparency.
-
----
-
-Feel free to explore the code and reach out for suggestions or collaboration!
